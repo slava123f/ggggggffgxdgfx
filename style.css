@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    color: firebrick;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align-last: center;
+}
+body a {
+    text-decoration:none ;
+    color: blueviolet;
+}
+header a  {
+    text-decoration:none ;
+    color: firebrick;
+}
+header {
+    color: firebrick;
+    border: 5px solid blueviolet;
+    border-radius: 10px;
+    font-size: 20px;
+}
+h1 {
+    text-align:center;
+    color: blueviolet;
+    font-size: 45px;
+}
+footer p{
+    color: firebrick;
+    font-size: 20px;
+}
+footer {
+    border: 5px solid  blueviolet;
+}
+nav {
+    color:  firebrick; 
+    border: 5px solid  blueviolet;
+    border-radius: 10px;
+    text-align:center;
+    margin: 11px;
+}
+nav a {
+    text-decoration:none ;
+    color:  firebrick; 
+    font-size: 20px;
+    padding: 4px;
+}
+.dd {
+   color:  firebrick; 
+    border: 5px solid  blueviolet;
+    border-radius: 10px;
+
+    margin: 11px;
+}
